@@ -1,0 +1,1 @@
+// https://www.hackerrank.com/contests/armacode-x-armageddon/challenges/instant-crush
